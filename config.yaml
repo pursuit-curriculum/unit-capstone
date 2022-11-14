@@ -1,0 +1,52 @@
+details:
+  name: Capstone
+  repository_name: unit-capstone
+sequence: # even though there is only one group/sequence - This structure is needed for the GitHub copying tool
+  Capstone:
+    - name: Unit 6 Launch
+      elements:
+        - kind: deck
+        - kind: recording
+    - name: Group Norms
+      pursuit_path: group-norms
+      kind: lesson
+      activity: canvas_text
+      activity_description: "To complete this lab, you will need to, submit as a group, the group norms you and your group have set. "
+    - name: Ideation
+      pursuit_path: ideation
+      kind: lesson
+      activity: canvas_text
+      activity_description: "To complete this lab, you will need to submit some app ideas. "
+    - name: App Planning Review
+      kind: lesson
+      pursuit_path: app-planning
+      activity: canvas_text
+      activity_description: "Review the content on ERDs, Wireframes and Trello, as a group, submit links to your ERDs, Wireframes and Trello"
+    - name: Capstone Front-end Application GitHub URL
+      pursuit_path: control-flow
+      kind: lesson # Submission only
+      activity: ~
+    - name: Git and GitHub with Teams
+      pursuit_path: git-github-w-teams
+      kind: lesson # Submission only
+      activity: ~
+    - name: Capstone Front-end Application Deployed URL
+      pursuit_path: control-flow
+      kind: lesson # Submission only
+      activity: replit
+    - name: Capstone Back-end Application GitHub URL
+      pursuit_path: control-flow
+      kind: lesson # Submission only
+      activity: replit
+    - name: Capstone Back-end Application Deployed URL
+      pursuit_path: control-flow
+      kind: lesson # Submission only
+      activity: replit
+    - name: Public Speaking
+      pursuit_path: public-speaking
+      kind: lesson
+      activity: ~ # Students should work on their presentations - this lesson is general advice
+    - name: Presentation Preparation
+      pursuit_path: presentation-prep
+      kind: lesson
+      activity: ~ # Students should work on their presentations - this lesson is specific details about their presentation

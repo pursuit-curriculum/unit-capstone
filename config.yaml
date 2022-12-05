@@ -24,25 +24,48 @@ sequence: # even though there is only one group/sequence - This structure is nee
       activity_description: "Review the content on ERDs, Wireframes and Trello, as a group, submit links to your ERDs, Wireframes and Trello"
     - name: App Planning: Trello Link
       kind: task # Submission only
+      activity: canvas_url
+      activity_description: "<p>Once you have created your Trello, submit a link to share with your instructional team</p>"
+      points_possible: 0
     - name: App Planning: ERDs Link
       kind: task # Submission only
+      activity: canvas_url
+      activity_description: "<p>Once you have created your ERDs, submit a link to share with your instructional team</p>"
+      points_possible: 0
     - name: App Planning: Wireframes Link
       kind: task # Submission only
+      activity: canvas_url
+      activity_description: "<p>Once you have created your Wireframes, submit a link to share with your instructional team</p>"
+      points_possible: 0
     - name: Capstone Front-end Application GitHub URL
       pursuit_path: control-flow
       kind: lesson # Submission only
-      activity: ~
+      activity: canvas_url
+      activity_description: "<p>Once you have created your Trello, submit a link to share with your instructional team</p>"
+      points_possible: 0
     - name: Git and GitHub with Teams
       pursuit_path: git-github-w-teams
       kind: lesson # Submission only
       activity: ~
     - name: Capstone Back-end Application GitHub URL
       kind: task # Submission only
+      activity: canvas_url
+      activity_description: "<p>Once you have created your GitHub repository for the back-end, submit a link to share with your instructional team</p>"
+      points_possible: 0
     - name: Capstone Back-end Application Deployed URL
       kind: task # Submission only
+      activity: canvas_url
+      activity_description: "<p>Once you have deployed your back-end application, submit a link to share with your instructional team</p>"
+      points_possible: 0
     - name: Capstone Front-end Application Deployed URL
+      activity: canvas_url
+      activity_description: "<p>Once you have deployed your front-end application, submit a link to share with your instructional team</p>"
+      points_possible: 0
       kind: task # Submission only
     - name: Capstone Front-end Application GitHub URL
+      activity: canvas_url
+      activity_description: "<p>Once you have created your GitHub repository for the front-end, submit a link to share with your instructional team</p>"
+      points_possible: 0
       kind: task # Submission only
     - name: Public Speaking
       pursuit_path: public-speaking

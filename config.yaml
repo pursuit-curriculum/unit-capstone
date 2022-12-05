@@ -22,17 +22,17 @@ sequence: # even though there is only one group/sequence - This structure is nee
       pursuit_path: app-planning
       activity: canvas_text
       activity_description: "Review the content on ERDs, Wireframes and Trello, as a group, submit links to your ERDs, Wireframes and Trello"
-    - name: App Planning: Trello Link
+    - name: App Planning - Trello Link
       kind: task # Submission only
       activity: canvas_url
       activity_description: "<p>Once you have created your Trello, submit a link to share with your instructional team</p>"
       points_possible: 0
-    - name: App Planning: ERDs Link
+    - name: App Planning - ERDs Link
       kind: task # Submission only
       activity: canvas_url
       activity_description: "<p>Once you have created your ERDs, submit a link to share with your instructional team</p>"
       points_possible: 0
-    - name: App Planning: Wireframes Link
+    - name: App Planning - Wireframes Link
       kind: task # Submission only
       activity: canvas_url
       activity_description: "<p>Once you have created your Wireframes, submit a link to share with your instructional team</p>"

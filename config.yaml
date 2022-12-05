@@ -22,6 +22,12 @@ sequence: # even though there is only one group/sequence - This structure is nee
       pursuit_path: app-planning
       activity: canvas_text
       activity_description: "Review the content on ERDs, Wireframes and Trello, as a group, submit links to your ERDs, Wireframes and Trello"
+    - name: App Planning: Trello Link
+      kind: task # Submission only
+    - name: App Planning: ERDs Link
+      kind: task # Submission only
+    - name: App Planning: Wireframes Link
+      kind: task # Submission only
     - name: Capstone Front-end Application GitHub URL
       pursuit_path: control-flow
       kind: lesson # Submission only
@@ -30,18 +36,14 @@ sequence: # even though there is only one group/sequence - This structure is nee
       pursuit_path: git-github-w-teams
       kind: lesson # Submission only
       activity: ~
-    - name: Capstone Front-end Application Deployed URL
-      pursuit_path: control-flow
-      kind: lesson # Submission only
-      activity: replit
     - name: Capstone Back-end Application GitHub URL
-      pursuit_path: control-flow
-      kind: lesson # Submission only
-      activity: replit
+      kind: task # Submission only
     - name: Capstone Back-end Application Deployed URL
-      pursuit_path: control-flow
-      kind: lesson # Submission only
-      activity: replit
+      kind: task # Submission only
+    - name: Capstone Front-end Application Deployed URL
+      kind: task # Submission only
+    - name: Capstone Front-end Application GitHub URL
+      kind: task # Submission only
     - name: Public Speaking
       pursuit_path: public-speaking
       kind: lesson

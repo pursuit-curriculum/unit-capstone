@@ -69,3 +69,8 @@ sequence: # even though there is only one group/sequence - This structure is nee
       pursuit_path: presentation-prep
       kind: lesson
       activity: ~ # Students should work on their presentations - this lesson is specific details about their presentation
+    - name: Capstone Presentation Deck
+      activity: canvas_url
+      activity_description: "<p>Once you have created your presentation deck, submit a link to share with your instructional team</p>"
+      points_possible: 0
+      kind: task # Submission only

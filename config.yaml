@@ -37,12 +37,6 @@ sequence: # even though there is only one group/sequence - This structure is nee
       activity: canvas_url
       activity_description: "<p>Once you have created your Wireframes, submit a link to share with your instructional team</p>"
       points_possible: 0
-    - name: Capstone Front-end Application GitHub URL
-      pursuit_path: control-flow
-      kind: lesson # Submission only
-      activity: canvas_url
-      activity_description: "<p>Once you have created your Trello, submit a link to share with your instructional team</p>"
-      points_possible: 0
     - name: Git and GitHub with Teams
       pursuit_path: git-github-w-teams
       kind: lesson # Submission only

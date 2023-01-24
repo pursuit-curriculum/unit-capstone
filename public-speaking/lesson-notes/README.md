@@ -1,1 +1,3 @@
-# Presentation Preparation Lesson Notes
+# Public Speaking
+
+As a class, discuss the importance of developing your public speaking skills.

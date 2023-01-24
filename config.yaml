@@ -21,7 +21,7 @@ sequence: # even though there is only one group/sequence - This structure is nee
       kind: lesson
       pursuit_path: app-planning
       activity: canvas_text
-      activity_description: "Review the content on ERDs, Wireframes and Trello, as a group, submit links to your ERDs, Wireframes and Trello"
+      activity_description: "Review the content on ERDs, Wireframes and Trello, as a group, submit links to your ERDs, Wireframes and Trello as tasks in Canvas."
     - name: App Planning - Trello Link
       kind: task # Submission only
       activity: canvas_url

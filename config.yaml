@@ -7,70 +7,47 @@ sequence: # even though there is only one group/sequence - This structure is nee
       elements:
         - kind: deck
         - kind: recording
+    - name: Capstone Workbook
+      activity: canvas_url
+      activity_description: "<p>Go to the slide deck below. One person from each Capstone group should create a copy of the Capstone Workbook. Submit a URL to your group's copied version in this assignment.</p>
+
+      <p>Make sure that everyone in your group has Edit access to the Capstone Workbook before you submit.</p>"
+      points_possible: 0
+      kind: task # Submission only
     - name: Group Norms
       pursuit_path: group-norms
       kind: lesson
-      activity: canvas_text
-      activity_description: "To complete this lab, you will need to, submit as a group, the group norms you and your group have set. "
-    - name: Ideation
-      pursuit_path: ideation
-      kind: lesson
-      activity: canvas_text
-      activity_description: "To complete this lab, you will need to submit some app ideas. "
-    - name: App Planning Review
-      kind: lesson
-      pursuit_path: app-planning
-      activity: canvas_text
-      activity_description: "Review the content on ERDs, Wireframes and Trello, as a group, submit links to your ERDs, Wireframes and Trello as tasks in Canvas."
-    - name: App Planning - Trello Link
-      kind: task # Submission only
-      activity: canvas_url
-      activity_description: "<p>Once you have created your Trello, submit a link to share with your instructional team</p>"
-      points_possible: 0
-    - name: App Planning - ERDs Link
-      kind: task # Submission only
-      activity: canvas_url
-      activity_description: "<p>Once you have created your ERDs, submit a link to share with your instructional team</p>"
-      points_possible: 0
-    - name: App Planning - Wireframes Link
-      kind: task # Submission only
-      activity: canvas_url
-      activity_description: "<p>Once you have created your Wireframes, submit a link to share with your instructional team</p>"
-      points_possible: 0
+      activity: ~
     - name: Git and GitHub with Teams
       pursuit_path: git-github-w-teams
       kind: lesson # Submission only
       activity: ~
-    - name: Capstone Back-end Application GitHub URL
-      kind: task # Submission only
-      activity: canvas_url
-      activity_description: "<p>Once you have created your GitHub repository for the back-end, submit a link to share with your instructional team</p>"
-      points_possible: 0
-    - name: Capstone Back-end Application Deployed URL
-      kind: task # Submission only
-      activity: canvas_url
-      activity_description: "<p>Once you have deployed your back-end application, submit a link to share with your instructional team</p>"
-      points_possible: 0
-    - name: Capstone Front-end Application Deployed URL
-      activity: canvas_url
-      activity_description: "<p>Once you have deployed your front-end application, submit a link to share with your instructional team</p>"
-      points_possible: 0
-      kind: task # Submission only
-    - name: Capstone Front-end Application GitHub URL
-      activity: canvas_url
-      activity_description: "<p>Once you have created your GitHub repository for the front-end, submit a link to share with your instructional team</p>"
-      points_possible: 0
-      kind: task # Submission only
-    - name: Public Speaking
-      pursuit_path: public-speaking
+    - name: Ideation
+      pursuit_path: ideation
       kind: lesson
-      activity: ~ # Students should work on their presentations - this lesson is general advice
-    - name: Presentation Preparation
-      pursuit_path: presentation-prep
-      kind: lesson
-      activity: ~ # Students should work on their presentations - this lesson is specific details about their presentation
+      activity: ~
+    - name: Capstone Application
+      activity: canvas_url
+      activity_description: "<p>Submit the URL for your deployed Capstone application.</p>"
+      points_possible: 0
+      kind: task # Submission only
     - name: Capstone Presentation Deck
       activity: canvas_url
-      activity_description: "<p>Once you have created your presentation deck, submit a link to share with your instructional team</p>"
+      activity_description: "<p>Once you have created your presentation deck, submit a link to share with your instructional team.</p>"
+      points_possible: 0
+      kind: task # Submission only
+    - name: Capstone Copy Back-end GitHub
+      activity: canvas_url
+      activity_description: "<p>Submit a link to the <em>personal version</em> of your Capstone back-end's GitHub repository. This link should be to your own GitHub account, not a member of your group's.</p>"
+      points_possible: 0
+      kind: task # Submission only
+    - name: Capstone Copy Front-end GitHub
+      activity: canvas_url
+      activity_description: "<p>Submit a link to the <em>personal version</em> of your Capstone front-end's GitHub repository. This link should be to your own GitHub account, not a member of your group's.</p>"
+      points_possible: 0
+      kind: task # Submission only
+    - name: Capstone Copy Deployed URL
+      activity: canvas_url
+      activity_description: "<p>Submit a link to the <em>personal version</em> of your deployed Capstone application. This link should be a deployed application that you manage, not related to a member of your group.</p>"
       points_possible: 0
       kind: task # Submission only

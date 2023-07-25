@@ -1,6 +1,6 @@
 # Git and GitHub with Teams
 
-You have learned about collaborating with GitHub in an [earlier lesson](https://github.com/joinpursuit/8-0-technical-curriculum/tree/main/03-react/collaboration-with-github). However, it's been a little bit of time since this lesson. Let's do a refresher!
+You have learned about collaborating with GitHub in an earlier lesson. However, it's been a little bit of time since this lesson. Let's do a refresher!
 
 ### Git Refresher
 

@@ -15,12 +15,22 @@ Groups must demonstrate:
 
 ### Specifics
 
-Project must contain:
+The project must meet the following criteria:
 
-- 2+ resources
-- At least 1 one-to-many relationship
-- Full CRUD routes (overall, not necessarily per resource)
-- All members must contribute to the code base in a significant way
+- App solves a specific problem with technology.
+- App is deployed and accessible on the web.
+- App successfully builds and runs without issue.
+- Uncontrollable errors are handled gracefully and visually explained to the user.
+- Code is hosted on GitHub with all group members’ clear and frequent commit history.
+- Code follows best practices such as using good variable names, proper indentation, and following the D.R.Y. principle.
+- The App is responsive and functional on small and large screen sizes.
+- The App contains 2+ resources along with related tables.
+- The App uses at least one one-to-many relationship.
+- The App contains full CRUD routes.
+    - Overall, not necessarily per resource.
+- The App includes a thoughtful file structure on both the back-end and front-end.
+- Code follows a consistent and professional format, such as using consistent spacing and naming conventions appropriate for the chosen language.
+- All members must contribute to the code base in a significant way.
 
 ### Expectation
 
